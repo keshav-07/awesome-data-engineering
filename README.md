@@ -27,6 +27,7 @@
 - [Testing](#testing)
 - [Community](#community)
   - [Forums](#forums)
+  - [Learning Resources](#learning-resources)
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
   - [Books](#books)
