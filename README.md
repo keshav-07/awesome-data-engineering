@@ -410,6 +410,10 @@
 - [/r/etl](https://www.reddit.com/r/ETL/) - Subreddit focused on ETL.
 - [AI Dev Jobs](https://aidevboard.com) - Job board focused on AI, ML, and data engineering roles with 7,400+ listings, salary data, and a free REST API.
 
+### Learning Resources
+
+- [DataDank](https://datadank.com/) - Free Data Engineering learning resources, runnable examples and a structured 90-day interview preparation plan.
+
 ### Conferences
 
 - [Data Council](https://www.datacouncil.ai/about) - The first technical conference that bridges the gap between data scientists, data engineers and data analysts.
